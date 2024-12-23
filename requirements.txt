@@ -1,3 +1,2 @@
-request
-pandas
-numpy
+streamlit
+openai
